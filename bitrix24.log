@@ -1,0 +1,34 @@
+2024-11-08 20:17:21,922 - INFO - start get_candidate_data - 32
+2024-11-08 20:17:28,546 - INFO - candidate details received
+2024-11-08 20:17:28,547 - INFO - start save_candidate_to_excel
+2024-11-08 20:17:28,552 - ERROR - Error save: 'result'
+2024-11-08 20:17:28,553 - INFO - Start upload_file_to_lead
+2024-11-08 20:17:33,483 - INFO - Поле успешно создано с ID: 1040
+2024-11-08 20:19:41,755 - INFO - start get_candidate_data - 32
+2024-11-08 20:19:49,197 - INFO - candidate details received
+2024-11-08 20:19:49,198 - INFO - start save_candidate_to_excel
+2024-11-08 20:19:49,203 - ERROR - Error save: 'result'
+2024-11-08 20:19:49,203 - INFO - Start upload_file_to_lead
+2024-11-08 20:19:51,134 - ERROR - Ошибка при создании поля: 'result'
+2024-11-08 20:19:51,135 - INFO - start read_from_excel
+2024-11-08 20:19:51,158 - INFO - File read successfully - test_crm.xlsx
+2024-11-08 20:19:51,158 - INFO - start create_smart_process
+2024-11-08 20:19:53,276 - INFO - Смарт-процесс 'CRM 1' успешно создан!
+2024-11-08 20:19:57,579 - INFO - Смарт-процесс 'CRM 2' успешно создан!
+2024-11-08 20:19:58,807 - INFO - Смарт-процесс 'CRM 3' успешно создан!
+2024-11-08 20:20:00,259 - INFO - Смарт-процесс 'CRM 4' успешно создан!
+2024-11-08 20:20:39,270 - INFO - start get_candidate_data - 14
+2024-11-08 20:20:40,712 - INFO - candidate details received
+2024-11-08 20:20:40,713 - INFO - start save_candidate_to_excel
+2024-11-08 20:20:40,742 - INFO - Candidate data saved in candidates_20241108_2020.xlsx
+2024-11-08 20:20:40,743 - INFO - Start upload_file_to_lead
+2024-11-08 20:20:49,206 - INFO - Поле успешно создано с ID: 1046
+2024-11-08 20:20:49,207 - INFO - start save_link_to_file
+2024-11-08 20:20:51,077 - INFO - Ссылка на файл успешно сохранена у кандидата - 14
+2024-11-08 20:20:51,078 - INFO - start read_from_excel
+2024-11-08 20:20:51,103 - INFO - File read successfully - test_crm.xlsx
+2024-11-08 20:20:51,104 - INFO - start create_smart_process
+2024-11-08 20:21:04,646 - INFO - Смарт-процесс 'CRM 1' успешно создан!
+2024-11-08 20:21:10,825 - INFO - Смарт-процесс 'CRM 2' успешно создан!
+2024-11-08 20:21:13,925 - INFO - Смарт-процесс 'CRM 3' успешно создан!
+2024-11-08 20:21:16,855 - INFO - Смарт-процесс 'CRM 4' успешно создан!
